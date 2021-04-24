@@ -21,3 +21,4 @@ If you're new to Julia, you can do that by following these steps:
 
 And now from the Jupyter tab in your browser, you can navigate to the folder where you downloaded the tutorials, and then click
 on the name of one of them to get started! Enjoy!
+ 
